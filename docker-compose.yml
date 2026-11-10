@@ -17,7 +17,7 @@ services:
     networks:
       - ecommerce-backend
     ports:
-      - "${DB_PORT_BIND:-127.0.0.1:5432}:5432"
+      - "${DB_PORT_BIND:-127.0.0.1:5433}:5432"
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-ecommerce_db}"]
       interval: 10s
