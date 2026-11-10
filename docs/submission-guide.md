@@ -17,7 +17,7 @@ This document contains pre-filled data, answers, and scripts to complete your of
 | **Assigned Project Title** | `Cloud Deployment & CI/CD – E-Commerce Platform` |
 | **Repository URL** | `https://github.com/imanapriya/ecommerce-platform` *(Ensure public or reviewer access granted)* |
 | **Primary Branch** | `main` |
-| **Final Commit ID** | *(Run `git rev-parse HEAD` and paste the 40-character commit hash)* |
+| **Final Commit ID** | `4e55ae7a762aeb5b499dd6508cc999f0bedd4024` |
 | **CI/CD Pipeline Run URL** | `https://github.com/imanapriya/ecommerce-platform/actions` *(Link to a successful GitHub Actions run)* |
 | **Deployed Service URL / Mode** | `Local Deployment with Nginx Reverse Proxy (HTTPS/TLS)` *(or cloud VM IP if deployed to AWS/GCP/DigitalOcean)* |
 | **Container Image Tag / Digest** | `ecommerce-api:1.0.<RUN_NUMBER>` |
