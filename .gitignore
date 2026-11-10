@@ -28,6 +28,7 @@ coverage/
 backups/*.sql
 backups/*.dump
 backups/*.gz
+backups/*.sha256
 !backups/.gitkeep
 
 # Operating system files
